@@ -1,3 +1,54 @@
-@charset "UTF-8";
 /* CSS Document */
+@charset "UTF-8";
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
 
+body{
+	font-family: Nunito Sans Regular, sans-serif;
+	color: #787878;
+}
+.container{
+	width: 100%;
+	margin: auto;
+}
+/*header style*/
+header{
+	top: 0px;
+	left: 0px;
+	width: 1366px;
+	height: 478px;
+	background-image: url("images/hero-image-home.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100% 100%;
+	min-height: 478px;
+	opacity: 1;
+}
+.header-logo{
+	padding-top: 50px;
+	padding-left: 98px;
+	
+	
+}
+.hero-header{
+	padding-top: 42.37px;
+	padding-left: 96px;
+	text-align: left;
+	letter-spacing: 0.38px;
+	color: #EB7732;
+	opacity: 1;
+}
+.hero-paragraph{
+	padding-top: 26.5px;
+	padding-left: 100px;
+	width: 527px;
+	height: 136px;
+	text-align: left;
+	letter-spacing: 0.09px;
+	color: #787878;
+	opacity: 1;
+}
+/*end header style*/
