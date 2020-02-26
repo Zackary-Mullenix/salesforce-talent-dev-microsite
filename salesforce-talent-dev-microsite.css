@@ -46,9 +46,29 @@ header{
 	padding-left: 100px;
 	width: 527px;
 	height: 136px;
+	font-family: "Nunito Sans Regular";
 	text-align: left;
 	letter-spacing: 0.09px;
 	color: #787878;
 	opacity: 1;
+}
+.hero-button{
+	padding-top:349px;
+	left: 100px;
+	width: 181px;
+	height: 54px;
+}
+.button {
+  background: #EB7732 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 /*end header style*/
