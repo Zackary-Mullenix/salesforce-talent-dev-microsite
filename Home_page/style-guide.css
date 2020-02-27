@@ -1,0 +1,1296 @@
+.mediaViewInfo {
+	--web-view-name: Home - Desktop;
+	--web-view-id: Home___Desktop;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home___Desktop;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home___Desktop {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 1366px;
+	height: 2115px;
+	background-color: rgba(0,0,0,0);
+	overflow: hidden;
+	--web-view-name: Home - Desktop;
+	--web-view-id: Home___Desktop;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#bg {
+	position: absolute;
+	width: 1366px;
+	height: 1600px;
+	left: 0px;
+	top: 195px;
+	overflow: visible;
+}
+#bg_white {
+	position: absolute;
+	width: 1366px;
+	height: 1600px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#footer {
+	position: absolute;
+	width: 1366px;
+	height: 199.66px;
+	left: 0px;
+	top: 1919.48px;
+	overflow: visible;
+}
+.bg_j {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 199.66px;
+	left: 0px;
+	top: 0px;
+}
+#content {
+	position: absolute;
+	width: 1124px;
+	height: 58.176px;
+	left: 97px;
+	top: 84.52px;
+	overflow: visible;
+}
+#ID2 {
+	position: absolute;
+	width: 696px;
+	height: 13px;
+	left: 428px;
+	top: 4.971px;
+	overflow: visible;
+}
+#HOME__THE_GREAT_LEADER_METHOD_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 697px;
+	white-space: nowrap;
+	line-height: 15.600000381469727px;
+	margin-top: -1.3000001907348633px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID1 {
+	position: absolute;
+	width: 199px;
+	height: 14px;
+	left: 2.571px;
+	top: 44.176px;
+	overflow: visible;
+}
+#__2020_Salesforce__All_rights_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	line-height: 18.18736457824707px;
+	margin-top: -3.41013240814209px;
+	text-align: left;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11.36709976196289px;
+	color: rgba(67,157,219,1);
+	letter-spacing: 0.05px;
+}
+#Vector_Smart_Object {
+	position: absolute;
+	width: 285px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 9.742px;
+	height: 21.557px;
+	left: 0px;
+	top: 1.954px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 13.679px;
+	height: 17.193px;
+	left: 11.202px;
+	top: 6.35px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1.697px;
+	height: 23.055px;
+	left: 29.531px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 15.071px;
+	height: 17.161px;
+	left: 35.166px;
+	top: 6.35px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 14.46px;
+	height: 16.705px;
+	left: 53.902px;
+	top: 6.35px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 9.743px;
+	height: 21.557px;
+	left: 70.466px;
+	top: 1.954px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 15.885px;
+	height: 23.51px;
+	left: 94.78px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 15.071px;
+	height: 17.161px;
+	left: 114.365px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 15.037px;
+	height: 16.249px;
+	left: 130.183px;
+	top: 6.805px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 15.071px;
+	height: 17.161px;
+	left: 146.035px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 1.697px;
+	height: 23.054px;
+	left: 165.01px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 15.886px;
+	height: 24.651px;
+	left: 190.806px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 25.9px;
+	height: 16.705px;
+	left: 210.391px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 15.07px;
+	height: 17.161px;
+	left: 239.957px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 14.46px;
+	height: 16.705px;
+	left: 258.694px;
+	top: 6.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 9.742px;
+	height: 21.556px;
+	left: 275.258px;
+	top: 1.954px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1.483px;
+	height: 1.649px;
+	left: 180.183px;
+	top: 14.104px;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1.483px;
+	height: 1.649px;
+	left: 176.088px;
+	top: 14.104px;
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 14.101px;
+	height: 17.647px;
+	left: 171.826px;
+	top: 7.127px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1.594px;
+	height: 8.512px;
+	left: 178.08px;
+	top: 16.261px;
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 16.816px;
+	height: 19.004px;
+	left: 170.469px;
+	top: 5.77px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 10.143px;
+	height: 12.43px;
+	left: 173.805px;
+	top: 13.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 4.953px;
+	height: 1.252px;
+	left: 176.401px;
+	top: 26.476px;
+}
+#icons {
+	position: absolute;
+	width: 1400px;
+	height: 1919px;
+	left: -17px;
+	top: 0px;
+	overflow: visible;
+}
+.bg_be {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 612.72px;
+	left: 0px;
+	top: 1300px;
+}
+#Vector_Smart_Object_bf {
+	position: absolute;
+	width: 1400px;
+	height: 759px;
+	left: 0px;
+	top: 1160px;
+	overflow: visible;
+}
+#ID5 {
+	position: absolute;
+	width: 306px;
+	height: 173.272px;
+	left: 736.493px;
+	top: 1575px;
+	overflow: visible;
+}
+#Be_set_fourth_land_god_darknes {
+	position: absolute;
+	left: 0px;
+	top: 115.272px;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	line-height: 31.122493743896484px;
+	margin-top: -5.187082290649414px;
+	text-align: center;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20.748329162597656px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#GREAT_LEADER_SURVEY {
+	position: absolute;
+	left: 54.057px;
+	top: 82.991px;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	line-height: 38.90311813354492px;
+	margin-top: -11.670934200286865px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.561249732971191px;
+	color: rgba(31,92,161,1);
+	letter-spacing: 1px;
+}
+#Vector_Smart_Object_bm {
+	position: absolute;
+	width: 53px;
+	height: 60.999px;
+	left: 129.506px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 53px;
+	height: 60.999px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID4 {
+	position: absolute;
+	width: 638.614px;
+	height: 277.189px;
+	left: 344.386px;
+	top: 1569.001px;
+	overflow: visible;
+}
+#button_copy_2 {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 457.614px;
+	top: 223.189px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE {
+	position: absolute;
+	left: 47.019px;
+	top: 23.451px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#button_copy_3 {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 51.054px;
+	top: 223.189px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1_bt {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE_bu {
+	position: absolute;
+	left: 47.017px;
+	top: 23.451px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Create_your_own__Individual_De {
+	position: absolute;
+	left: 0px;
+	top: 121.272px;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	line-height: 31.122493743896484px;
+	margin-top: -5.187082290649414px;
+	text-align: center;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20.748329162597656px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#IDP {
+	position: absolute;
+	left: 128.057px;
+	top: 88.991px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 38.90311813354492px;
+	margin-top: -11.670934200286865px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.561249732971191px;
+	color: rgba(31,92,161,1);
+	letter-spacing: 1px;
+}
+#Vector_Smart_Object_bx {
+	position: absolute;
+	width: 58.999px;
+	height: 64.999px;
+	left: 111.615px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 58.999px;
+	height: 64.999px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID3 {
+	position: absolute;
+	width: 226px;
+	height: 247.94px;
+	left: 973.969px;
+	top: 1191px;
+	overflow: visible;
+}
+#button_copy {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 22.911px;
+	top: 193.94px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE_b {
+	position: absolute;
+	left: 47.014px;
+	top: 23.443px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#How_to_have_authentic___human_ {
+	position: absolute;
+	left: 0px;
+	top: 110.683px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	line-height: 31.122493743896484px;
+	margin-top: -5.187082290649414px;
+	text-align: center;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20.748329162597656px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#GREAT_CHECK_INS {
+	position: absolute;
+	left: 36.058px;
+	top: 78.402px;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	line-height: 38.90311813354492px;
+	margin-top: -11.670934200286865px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.561249732971191px;
+	color: rgba(31,92,161,1);
+	letter-spacing: 1px;
+}
+#Vector_Smart_Object_b {
+	position: absolute;
+	width: 61px;
+	height: 50px;
+	left: 83.031px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_22 {
+	overflow: visible;
+	position: absolute;
+	width: 61px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID2_b {
+	position: absolute;
+	width: 238px;
+	height: 245.94px;
+	left: 565.951px;
+	top: 1193px;
+	overflow: visible;
+}
+#button {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 31.239px;
+	top: 191.94px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1_ca {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE_ca {
+	position: absolute;
+	left: 47.011px;
+	top: 23.443px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Vision__Values__Methods___Obst {
+	position: absolute;
+	left: 0px;
+	top: 108.683px;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	line-height: 31.122493743896484px;
+	margin-top: -5.187082290649414px;
+	text-align: center;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20.748329162597656px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#V2MOM {
+	position: absolute;
+	left: 91.057px;
+	top: 76.402px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 38.90311813354492px;
+	margin-top: -11.670934200286865px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.561249732971191px;
+	color: rgba(31,92,161,1);
+	letter-spacing: 1px;
+}
+#Vector_Smart_Object_cd {
+	position: absolute;
+	width: 65.001px;
+	height: 48.999px;
+	left: 89.048px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_23 {
+	overflow: visible;
+	position: absolute;
+	width: 65.001px;
+	height: 48.999px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID1_cf {
+	position: absolute;
+	width: 246px;
+	height: 251.94px;
+	left: 163.329px;
+	top: 1187px;
+	overflow: visible;
+}
+#button_cg {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 31.891px;
+	top: 197.94px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1_ch {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE_ci {
+	position: absolute;
+	left: 47.005px;
+	top: 23.443px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#How_To_improve_as__a_Great_Lea {
+	position: absolute;
+	left: 28.943px;
+	top: 114.683px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 31.122493743896484px;
+	margin-top: -5.187082290649414px;
+	text-align: center;
+	font-family: SalesforceSans-Book;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20.748329162597656px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#THE_GREAT_LEADER_METHOD {
+	position: absolute;
+	left: 0px;
+	top: 82.402px;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	line-height: 38.90311813354492px;
+	margin-top: -11.670934200286865px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.561249732971191px;
+	color: rgba(31,92,161,1);
+	letter-spacing: 1px;
+}
+#Vector_Smart_Object_cl {
+	position: absolute;
+	width: 40.001px;
+	height: 51px;
+	left: 102.671px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_24 {
+	overflow: visible;
+	position: absolute;
+	width: 40.001px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#hero_image_salesforce {
+	position: absolute;
+	width: 1366px;
+	height: 478px;
+	left: 17px;
+	top: 0px;
+	overflow: visible;
+}
+#video {
+	position: absolute;
+	width: 1383px;
+	height: 615.61px;
+	left: -17px;
+	top: 477.22px;
+	overflow: visible;
+}
+#img {
+	position: absolute;
+	width: 1383px;
+	height: 615.61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.your_img_here {
+	position: absolute;
+	overflow: visible;
+	width: 1383px;
+	height: 615.61px;
+	left: 0px;
+	top: 0px;
+}
+#Vector_Smart_Object_cr {
+	position: absolute;
+	width: 767px;
+	height: 438.997px;
+	left: 119.001px;
+	top: 80.78px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 767px;
+	height: 438.997px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_25 {
+	overflow: visible;
+	position: absolute;
+	width: 767px;
+	height: 438.997px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 197.231px;
+	height: 197.544px;
+	left: 290.365px;
+	top: 134.695px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_27 {
+	overflow: visible;
+	position: absolute;
+	width: 75.479px;
+	height: 73.591px;
+	left: 360.043px;
+	top: 196.671px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#welcome_video_from_brent {
+	position: absolute;
+	left: 356.439px;
+	top: 149.195px;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	line-height: 39.58256912231445px;
+	margin-top: -9.895644187927246px;
+	text-align: center;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19.79128074645996px;
+	color: rgba(67,157,219,1);
+	letter-spacing: 0.1px;
+}
+#about {
+	position: absolute;
+	width: 364.184px;
+	height: 442.39px;
+	left: 903.816px;
+	top: 639.464px;
+	overflow: visible;
+}
+#we_become_Great_by_leveraging_ {
+	position: absolute;
+	left: 0px;
+	top: 60.059px;
+	overflow: visible;
+	width: 365.184px;
+	height: 382.331px;
+	line-height: 28px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: NunitoSans-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#AS_Leaders____ {
+	position: absolute;
+	left: 0.307px;
+	top: 0px;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(235,119,50,1);
+	letter-spacing: 0.1px;
+}
+#banner {
+	position: absolute;
+	width: 531.5px;
+	height: 281px;
+	left: 95.672px;
+	top: 122.25px;
+	overflow: visible;
+}
+#bg_c {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: -95.672px;
+	top: -122.25px;
+	overflow: visible;
+}
+#Vector_Smart_Object_c {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#button_c {
+	position: absolute;
+	width: 181px;
+	height: 54px;
+	left: 4.018px;
+	top: 227px;
+	overflow: visible;
+}
+.Rounded_Rectangle_1_c {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#LEARN_MORE_c {
+	position: absolute;
+	left: 46.982px;
+	top: 23.445px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -36px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#text {
+	position: absolute;
+	width: 531.5px;
+	height: 200.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Creating_and_enabling_a_cultur {
+	position: absolute;
+	left: 4.5px;
+	top: 64.5px;
+	overflow: visible;
+	width: 528px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: NunitoSans-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(120,120,120,1);
+	letter-spacing: 0.05px;
+}
+#A_culture_of_IMpact {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 412px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(235,119,50,1);
+	letter-spacing: 0.1px;
+}
+#header {
+	position: absolute;
+	width: 1109.176px;
+	height: 29.879px;
+	left: 98px;
+	top: 50px;
+	overflow: visible;
+}
+#HOME_THE_GREAT_LEADER_METHOD__ {
+	position: absolute;
+	left: 413.176px;
+	top: 8.121px;
+	overflow: visible;
+	width: 697px;
+	white-space: nowrap;
+	line-height: 15.600000381469727px;
+	margin-top: -1.3000001907348633px;
+	text-align: left;
+	font-family: NeutrafaceDisplay-Titling;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(235,119,50,1);
+}
+#Vector_Smart_Object1 {
+	position: absolute;
+	width: 290.247px;
+	height: 29.879px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_28 {
+	overflow: visible;
+	position: absolute;
+	width: 9.922px;
+	height: 20.777px;
+	left: 0px;
+	top: 1.883px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_29 {
+	overflow: visible;
+	position: absolute;
+	width: 13.931px;
+	height: 16.571px;
+	left: 11.407px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_30 {
+	overflow: visible;
+	position: absolute;
+	width: 1.728px;
+	height: 22.221px;
+	left: 30.075px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_31 {
+	overflow: visible;
+	position: absolute;
+	width: 15.349px;
+	height: 16.54px;
+	left: 35.813px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_32 {
+	overflow: visible;
+	position: absolute;
+	width: 14.727px;
+	height: 16.101px;
+	left: 54.894px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_33 {
+	overflow: visible;
+	position: absolute;
+	width: 9.922px;
+	height: 20.777px;
+	left: 71.764px;
+	top: 1.883px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_34 {
+	overflow: visible;
+	position: absolute;
+	width: 16.178px;
+	height: 22.66px;
+	left: 96.525px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_35 {
+	overflow: visible;
+	position: absolute;
+	width: 15.349px;
+	height: 16.54px;
+	left: 116.471px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_36 {
+	overflow: visible;
+	position: absolute;
+	width: 15.314px;
+	height: 15.661px;
+	left: 132.579px;
+	top: 6.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_37 {
+	overflow: visible;
+	position: absolute;
+	width: 15.349px;
+	height: 16.54px;
+	left: 148.723px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_38 {
+	overflow: visible;
+	position: absolute;
+	width: 1.728px;
+	height: 22.221px;
+	left: 168.048px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_39 {
+	overflow: visible;
+	position: absolute;
+	width: 16.178px;
+	height: 23.759px;
+	left: 194.319px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_40 {
+	overflow: visible;
+	position: absolute;
+	width: 26.377px;
+	height: 16.101px;
+	left: 214.265px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_41 {
+	overflow: visible;
+	position: absolute;
+	width: 15.349px;
+	height: 16.54px;
+	left: 244.374px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_42 {
+	overflow: visible;
+	position: absolute;
+	width: 14.727px;
+	height: 16.101px;
+	left: 263.456px;
+	top: 6.12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_43 {
+	overflow: visible;
+	position: absolute;
+	width: 9.922px;
+	height: 20.777px;
+	left: 280.325px;
+	top: 1.883px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1.51px;
+	height: 1.589px;
+	left: 183.5px;
+	top: 13.593px;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1.51px;
+	height: 1.589px;
+	left: 179.33px;
+	top: 13.593px;
+}
+.Path_44 {
+	overflow: visible;
+	position: absolute;
+	width: 14.362px;
+	height: 17.008px;
+	left: 174.989px;
+	top: 6.869px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1.623px;
+	height: 8.204px;
+	left: 181.359px;
+	top: 15.673px;
+}
+.Path_45 {
+	overflow: visible;
+	position: absolute;
+	width: 17.125px;
+	height: 18.316px;
+	left: 173.608px;
+	top: 5.561px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_46 {
+	overflow: visible;
+	position: absolute;
+	width: 10.329px;
+	height: 11.981px;
+	left: 177.005px;
+	top: 13.103px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 5.044px;
+	height: 1.206px;
+	left: 179.648px;
+	top: 25.518px;
+}
+#grid {
+	opacity: 0.2;
+	display: none;
+	position: absolute;
+	width: 1170px;
+	height: 1795px;
+	left: 98px;
+	top: 0px;
+	overflow: visible;
+}
